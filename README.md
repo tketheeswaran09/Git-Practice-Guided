@@ -1,3 +1,3 @@
 # Git-Practice-Guided
 
-### Write `Hello from \<your name\>` below and submit your changes. 👇
+### Write `Hello from <your-firstname>` below and submit your changes. 👇
